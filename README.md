@@ -1,6 +1,9 @@
 # - 🔒 Projeto de Bolsas DevSecOps/AWS,  Compass UOL, abril 2025 🔒 -
 
 ## 🐈‍⬛ CI/CD com Git Actions 🐈‍⬛
+### Esse projeto acompanha os repositórios abaixo:
+[Projeto-5-My-App](https://github.com/JorgeAntero/Projeto-5-My-App)  
+[Projeto-5-Manifests](https://github.com/JorgeAntero/Projeto-5-Manifests)  
 
 ## 📜 0 - Breve resumo >
 Para o quinto projeto nos foi proposto realizar a automatização do ciclo completo de desenvolvimento, build, deploy e execução de uma FastAPI, utiliando Github Actions, Docker Hub, e ArgoCD com Kubernetes.  
