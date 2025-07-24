@@ -11,8 +11,10 @@ Para o quinto projeto nos foi proposto realizar a automatização do ciclo compl
 
 ![Primeiro print](/Prints/1.1.png)  
 `Primeiro criei o repositório pro FastAPI`  
+[Link para o repositório](https://github.com/JorgeAntero/Projeto-5-My-App)  
 
 ![Segundo print](/Prints/1.2.png)  
-`E depois criei o repositório dos manifestos`
+`E depois criei o repositório dos manifestos`  
+[Link para o repositório](https://github.com/JorgeAntero/Projeto-5-Manifests)  
 
 ---
